@@ -1,2 +1,2 @@
 # demo_commit
-this it the first comit
+this it the first commit
